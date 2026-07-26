@@ -1,0 +1,3 @@
+baseURL = 'https://liongma.com/'
+locale = 'en-us'
+title = 'My New Hugo Project'
