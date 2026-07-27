@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params]
   mainSections = ["projects"]
-
+  comments = true
 [menu]
   [[menu.main]]
     name = "Projects"
@@ -13,19 +13,19 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Posts"
+    url = "/posts/"
     weight = 2
 
-[[menu.main]]
-  name = "Artwork"
-  url = "/artwork/"
-  weight = 3
+  [[menu.main]]
+    name = "Gallery"
+    url = "/artwork/"
+    weight = 3
 
-[[menu.main]]
-  name = "Blog"
-  url = "/posts/"
-  weight = 4
 
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
 
 

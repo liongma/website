@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SHIRTS</title>
-      <link>http://localhost:1313/posts/inverter/</link>
+      <link>http://localhost:1313/posts/shirt/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/inverter/</guid>
+      <guid>http://localhost:1313/posts/shirt/</guid>
       <description>A one-line description for the projects list</description>
     </item>
   </channel>

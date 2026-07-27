@@ -13,4 +13,8 @@
 </div>
 
 <a href="/artwork/" class="back-link">← Back to all collections</a>
+
+{{- if (.Param "comments") }}
+{{- partial "comments.html" . }}
+{{- end }}
 {{ end }}
