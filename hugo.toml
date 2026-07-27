@@ -1,4 +1,25 @@
 baseURL = 'https://liongma.com/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Liong Ma'
 theme = "PaperMod"
+
+[params]
+  mainSections = ["projects"]
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+
