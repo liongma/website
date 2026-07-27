@@ -1,4 +1,7 @@
-/* Background image */
+/* ==========================================================================
+   Background
+   ========================================================================== */
+
 html,
 body {
     height: 100%;
@@ -13,23 +16,6 @@ html {
     background-attachment: fixed;
 }
 
-/* Transparent overlays so background shows through */
-.header,
-.nav,
-.main,
-.content,
-.top,
-.list {
-    background: transparent !important;
-}
-
-/* Project entry cards */
-.post-entry {
-    background-color: var(--entry);
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-}
-
 /* Light/dark mode background variants (disabled for now) */
 /*
 html:not(.dark) {
@@ -41,9 +27,27 @@ html.dark {
 }
 */
 
+/* Transparent overlays so background shows through */
+.header,
+.nav,
+.main,
+.list {
+    background: transparent !important;
+}
 
+/* ==========================================================================
+   Project entry cards (default theme list items)
+   ========================================================================== */
 
-/* Masonry Collage */
+.post-entry {
+    background-color: var(--entry);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* ==========================================================================
+   Masonry collage (used on /artwork/ and /projects/)
+   ========================================================================== */
 
 .collage-grid {
     column-count: 3;
@@ -65,7 +69,17 @@ html.dark {
     border-radius: 8px;
 }
 
-/* Responsive: fewer columns on smaller screens */
+.collage-caption {
+    text-align: center;
+    padding: 6px 0;
+    font-size: 0.9rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin: 20px;
+}
+
 @media (max-width: 900px) {
     .collage-grid {
         column-count: 2;
@@ -78,15 +92,123 @@ html.dark {
     }
 }
 
-.collage-caption {
-    text-align: center;
-    padding: 6px 0;
-    font-size: 0.9rem;
+/* ==========================================================================
+   Projects page: sidebar + main layout
+   ========================================================================== */
+
+.projects-layout {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+    padding: 20px;
 }
 
-.back-link {
-    display: inline-block;
-    margin: 20px;
+.projects-sidebar {
+    flex: 0 0 200px;
+    position: sticky;
+    top: 20px;
+}
+
+.projects-sidebar h2 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 12px;
+    opacity: 0.7;
+}
+
+.projects-sidebar-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.projects-sidebar-list li {
+    margin-bottom: 8px;
+}
+
+.projects-sidebar-list a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.95rem;
+}
+
+.projects-sidebar-list a:hover {
+    text-decoration: underline;
+}
+
+.projects-main {
+    flex: 1;
+    min-width: 0; /* prevents flex overflow with the grid inside */
+}
+
+/* Projects collage: fewer, bigger columns than the default collage */
+.projects-main .collage-grid {
+    column-count: 3;
+    column-gap: 20px;
+    padding: 0;
+    margin-bottom: 12px;
+}
+
+.projects-main .collage-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.year-heading {
+    font-size: 1.4rem;
+    margin: 32px 0 16px;
+    font-weight: 600;
+}
+
+@media (max-width: 900px) {
+    .projects-main .collage-grid {
+        column-count: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .projects-layout {
+        flex-direction: column;
+    }
+
+    .projects-sidebar {
+        position: static;
+        flex: none;
+    }
 }
 
 
+.tag-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 8px 0 32px;
+}
+
+.tag-filter {
+    padding: 8px 18px;
+    border-radius: 999px;
+    border: 1.5px solid var(--border, #ccc);
+    background: var(--entry, #f2f2f2);
+    color: inherit;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: background 0.15s ease, transform 0.1s ease, border-color 0.15s ease;
+}
+
+.tag-filter:hover {
+    border-color: var(--primary, #333);
+    transform: translateY(-1px);
+}
+
+.tag-filter:active {
+    transform: scale(0.96);
+}
+
+.tag-filter.active {
+    background: var(--primary, #333);
+    border-color: var(--primary, #333);
+    color: var(--theme, #fff);
+}

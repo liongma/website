@@ -6,6 +6,7 @@ theme = "PaperMod"
 [params]
   mainSections = ["projects"]
   comments = true
+  
 [menu]
   [[menu.main]]
     name = "Projects"

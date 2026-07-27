@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "50dd12e9df3895d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c7f1c6247c597f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3652913a07ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/AE-Battery/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2583f045e464d579",
+    "type": "split",
+    "children": [
+      {
+        "id": "a446282bf3db0f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e0351dc5572e5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "83dd6d68cda5855b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6725c1483bb34d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8417f82767384108",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee5f4f9c4ccf2f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6031029c7cfe419d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/AE-Battery/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "7561697f30f6102a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projects/AE-Battery/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "ad315e4c093977c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0acdf2bfdbc5810a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ffda6e028228759",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/AE-Battery/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0c3652913a07ba7a",
+  "lastOpenFiles": [
+    "projects/AE-Battery/inverter_module.jpg",
+    "projects/CO2-Monitor/inverter_module.jpg",
+    "projects/CO2-Monitor/index.md",
+    "projects/PMSM Control/index.md",
+    "projects/Tesseract Mini/cover.JPG",
+    "projects/Tesseract Mini/Cube_2022_11_26.JPG",
+    "projects/Tesseract Mini/cover.jpg",
+    "projects/Tesseract Mini/index.md",
+    "projects/Tesseract Mini",
+    "projects/Mini Tesseract/index.md",
+    "projects/Mini Tesseract/cover.jpg",
+    "projects/Mini Tesseract",
+    "projects/Tesseract copy/index.md",
+    "projects/Tesseract copy/cover.jpg",
+    "projects/Tesseract copy",
+    "projects/Tesseract/cover.jpg",
+    "projects/Tesseract/IMG_20220101_150858.jpg",
+    "projects/Clock/cover.jpg",
+    "projects/Clock/IMG_20211016_225356.jpg",
+    "projects/GaN DAB/index.md",
+    "projects/Traction Inverter/index.md",
+    "projects/SiC-Inverter-1/index.md",
+    "projects/Line Follower/index.md",
+    "projects/RC Car/index.md",
+    "projects/Line Follower",
+    "projects/AA Board/index.md",
+    "projects/AE-Battery/index.md",
+    "projects/RC Car",
+    "projects/AE-Battery/Untitled",
+    "projects/AE-Boat/index.md",
+    "projects/Arduino/index.md",
+    "projects/Cardboard-Arm/index.md",
+    "projects/Cat-Display/index.md",
+    "projects/Clock/index.md",
+    "projects/Drone/index.md",
+    "projects/Electric-Car/index.md",
+    "projects/Fusor/index.md",
+    "projects/Gesture-Rep/index.md",
+    "projects/HFTC/index.md",
+    "projects/HV-Flyback/index.md",
+    "projects/HVDC/index.md",
+    "projects/Laser Gas/index.md",
+    "projects/RGB-Clock App",
+    "projects/Cardboard-Arm",
+    "projects/Gesture-Rep",
+    "projects/Pumpkin"
+  ]
+}

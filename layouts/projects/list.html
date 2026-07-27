@@ -1,0 +1,85 @@
+{{ define "main" }}
+<div class="projects-layout">
+
+  <!-- Left sidebar -->
+  <aside class="projects-sidebar">
+    <h2>Projects</h2>
+    <ul class="projects-sidebar-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </aside>
+
+  <!-- Right side -->
+  <div class="projects-main">
+
+    <!-- Tag filter buttons -->
+    <div class="tag-filters">
+      <button class="tag-filter active" data-tag="all">All</button>
+      {{ $tagSet := slice }}
+      {{ range .Pages }}
+        {{ range .Params.tags }}
+          {{ $tagSet = $tagSet | append . }}
+        {{ end }}
+      {{ end }}
+      {{ range ($tagSet | uniq | sort) }}
+        <button class="tag-filter" data-tag="{{ . }}">{{ . }}</button>
+      {{ end }}
+    </div>
+
+    {{ $pages := .Pages.ByDate.Reverse }}
+    {{ $total := len $pages }}
+    {{ $currentYear := "" }}
+
+    {{ range $index, $page := $pages }}
+      {{ $year := $page.Date.Format "2006" }}
+      {{ $tagsJoined := delimit $page.Params.tags "," }}
+
+      {{ if ne $year $currentYear }}
+        {{ if ne $currentYear "" }}</div>{{ end }}
+        <h2 class="year-heading">{{ $year }}</h2>
+        <div class="collage-grid">
+        {{ $currentYear = $year }}
+      {{ end }}
+
+      <a href="{{ $page.RelPermalink }}" class="collage-item" data-tags="{{ $tagsJoined }}">
+        {{ $cover := $page.Resources.GetMatch ($page.Params.cover.image) }}
+        {{ if $cover }}
+          <img src="{{ $cover.RelPermalink }}" alt="{{ $page.Title }}" loading="lazy">
+        {{ end }}
+        <div class="collage-caption">{{ $page.Title }}</div>
+      </a>
+
+      {{ if eq $index (sub $total 1) }}</div>{{ end }}
+    {{ end }}
+  </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".tag-filter");
+  const items = document.querySelectorAll(".collage-item");
+
+  buttons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      buttons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+
+      const selected = btn.dataset.tag;
+
+      items.forEach(item => {
+        const itemTags = (item.dataset.tags || "").split(",");
+        if (selected === "all" || itemTags.includes(selected)) {
+          item.style.display = "";
+        } else {
+          item.style.display = "none";
+        }
+      });
+    });
+  });
+});
+</script>
+
+{{ end }}

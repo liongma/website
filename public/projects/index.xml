@@ -9,10 +9,346 @@
     <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project One</title>
-      <link>http://localhost:1313/projects/project-one/</link>
+      <title>Active Aero Driver</title>
+      <link>http://localhost:1313/projects/aa-board/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/project-one/</guid>
+      <guid>http://localhost:1313/projects/aa-board/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Alarm Clock</title>
+      <link>http://localhost:1313/projects/clock/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/clock/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Cardboard Robot Arm</title>
+      <link>http://localhost:1313/projects/cardboard-arm/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cardboard-arm/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Custom Nano</title>
+      <link>http://localhost:1313/projects/arduino/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/arduino/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Electric Boat Inverter</title>
+      <link>http://localhost:1313/projects/ae-boat/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ae-boat/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Flyback Generator</title>
+      <link>http://localhost:1313/projects/hv-flyback/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hv-flyback/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>GaN DAB Converter</title>
+      <link>http://localhost:1313/projects/gan-dab/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gan-dab/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Light Display</title>
+      <link>http://localhost:1313/projects/cat-display/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cat-display/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>LV Battery</title>
+      <link>http://localhost:1313/projects/lv-battery/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/lv-battery/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Microwave Gun</title>
+      <link>http://localhost:1313/projects/microwave/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/microwave/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Mini Telsa Coil</title>
+      <link>http://localhost:1313/projects/toy-coil/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/toy-coil/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Mushroom Lights</title>
+      <link>http://localhost:1313/projects/mushroom/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mushroom/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Plasma Flame Generator</title>
+      <link>http://localhost:1313/projects/plasma-gen/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/plasma-gen/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>PMSM Controls</title>
+      <link>http://localhost:1313/projects/pmsm-control/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pmsm-control/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Quadracopter Drone</title>
+      <link>http://localhost:1313/projects/drone/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Quadraped</title>
+      <link>http://localhost:1313/projects/spider/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spider/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Reality Breaker</title>
+      <link>http://localhost:1313/projects/reality-breaker/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/reality-breaker/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Seismometer</title>
+      <link>http://localhost:1313/projects/seismometer/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/seismometer/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>SiC Inverter</title>
+      <link>http://localhost:1313/projects/cloud-chamber/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cloud-chamber/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>SiC Traction Inverter</title>
+      <link>http://localhost:1313/projects/traction-inverter/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/traction-inverter/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Simon Game</title>
+      <link>http://localhost:1313/projects/simon/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/simon/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Test Inverter</title>
+      <link>http://localhost:1313/projects/sic-inverter-1/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sic-inverter-1/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>UWU Light</title>
+      <link>http://localhost:1313/projects/uwu-light/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/uwu-light/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Voltage Multiplier</title>
+      <link>http://localhost:1313/projects/hvdc/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hvdc/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>CO2-Monitor</title>
+      <link>http://localhost:1313/projects/co2-monitor/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/co2-monitor/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Electric Boat Battery</title>
+      <link>http://localhost:1313/projects/ae-battery/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ae-battery/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Electric Race Car</title>
+      <link>http://localhost:1313/projects/electric-car/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/electric-car/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Fluid Visualizer</title>
+      <link>http://localhost:1313/projects/laser-gas/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/laser-gas/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Gesture Replicator</title>
+      <link>http://localhost:1313/projects/gesture-rep/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gesture-rep/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>High-Freq Tesla Coil</title>
+      <link>http://localhost:1313/projects/hftc/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hftc/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Laser Gun</title>
+      <link>http://localhost:1313/projects/laser-gun/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/laser-gun/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Line Follower</title>
+      <link>http://localhost:1313/projects/line-follower/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/line-follower/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Nuclear Fusor</title>
+      <link>http://localhost:1313/projects/fusor/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fusor/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Optical Spectrometer</title>
+      <link>http://localhost:1313/projects/spectrometer/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spectrometer/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Plasma Ring</title>
+      <link>http://localhost:1313/projects/plasma-ring/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/plasma-ring/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Pumpkin Cat</title>
+      <link>http://localhost:1313/projects/pumpkin/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pumpkin/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>RC Car</title>
+      <link>http://localhost:1313/projects/rc-car/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rc-car/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Reflow Plate</title>
+      <link>http://localhost:1313/projects/reflow/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/reflow/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>RGB Clock App</title>
+      <link>http://localhost:1313/projects/rgb-clock-app/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rgb-clock-app/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Scanning Quantum Tunneling Microscope</title>
+      <link>http://localhost:1313/projects/stm/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stm/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Sentient Fridge</title>
+      <link>http://localhost:1313/projects/sentient-fridge/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sentient-fridge/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Solid State Tesla Coil</title>
+      <link>http://localhost:1313/projects/sstc/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sstc/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Spark Gap Tesla Coil</title>
+      <link>http://localhost:1313/projects/spark-gap/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spark-gap/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Spot Welder</title>
+      <link>http://localhost:1313/projects/spot-welder/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spot-welder/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Thermocouple</title>
+      <link>http://localhost:1313/projects/thermocouple/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/thermocouple/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Un-Toaster</title>
+      <link>http://localhost:1313/projects/untoaster/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/untoaster/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>RGB Clock</title>
+      <link>http://localhost:1313/projects/rgb-clock/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/rgb-clock/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Tesseract</title>
+      <link>http://localhost:1313/projects/tesseract/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tesseract/</guid>
+      <description>A one-line description for the projects list</description>
+    </item>
+    <item>
+      <title>Tesseract Mini</title>
+      <link>http://localhost:1313/projects/tesseract-mini/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tesseract-mini/</guid>
       <description>A one-line description for the projects list</description>
     </item>
   </channel>

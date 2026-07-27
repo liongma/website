@@ -14,23 +14,167 @@
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-07-26T18:13:39-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/aa-board/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/clock/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/art/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-one/</loc>
+    <loc>http://localhost:1313/projects/cardboard-arm/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/controls/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/arduino/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ae-boat/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/hv-flyback/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/gan-dab/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/cat-display/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/lv-battery/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/microwave/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/toy-coil/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/mushroom/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/plasma-gen/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/pmsm-control/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/drone/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/spider/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/react/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/reality-breaker/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/seismometer/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/shirt/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/cloud-chamber/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/traction-inverter/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/simon/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/tesseract/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/sic-inverter-1/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/uwu-light/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/hvdc/</loc>
+    <lastmod>2026-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/co2-monitor/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ae-battery/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/electric-car/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/laser-gas/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/gesture-rep/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/hftc/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/laser-gun/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/line-follower/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/fusor/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/spectrometer/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/plasma-ring/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/pumpkin/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/rc-car/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/reflow/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/rgb-clock/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/rgb-clock-app/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/stm/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/sentient-fridge/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/sstc/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/spark-gap/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/spot-welder/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/thermocouple/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/untoaster/</loc>
+    <lastmod>2023-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artwork/</loc>
   </url><url>
