@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Art</title>
+      <link>http://localhost:1313/tags/art/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Python</title>
       <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
@@ -20,20 +27,6 @@
       <link>http://localhost:1313/tags/react/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/react/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/tags/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hello/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hi</title>
-      <link>http://localhost:1313/tags/hi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hi/</guid>
       <description></description>
     </item>
   </channel>

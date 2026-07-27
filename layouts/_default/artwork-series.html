@@ -1,0 +1,16 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ if .Params.summary }}<p>{{ .Params.summary }}</p>{{ end }}
+
+<div class="series-column">
+  {{ range .Resources.ByType "image" }}
+    {{ if ne .Name $.Params.cover }}
+      <div class="series-item">
+        <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+
+<a href="/artwork/" class="back-link">← Back to all collections</a>
+{{ end }}

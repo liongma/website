@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="collage-grid">
+  {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="collage-item">
+      {{ $cover := .Resources.GetMatch (.Params.cover) }}
+      {{ if $cover }}
+        <img src="{{ $cover.RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+      {{ end }}
+    </a>
+  {{ end }}
+</div>
+{{ end }}
+
+

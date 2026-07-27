@@ -1,0 +1,92 @@
+/* Background image */
+html,
+body {
+    height: 100%;
+    min-height: 100vh;
+    background: transparent;
+}
+
+html {
+    background-image: url("/images/inverter_assembly.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Transparent overlays so background shows through */
+.header,
+.nav,
+.main,
+.content,
+.top,
+.list {
+    background: transparent !important;
+}
+
+/* Project entry cards */
+.post-entry {
+    background-color: var(--entry);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* Light/dark mode background variants (disabled for now) */
+/*
+html:not(.dark) {
+    background-image: url("/images/background-light.jpg");
+}
+
+html.dark {
+    background-image: url("/images/background-dark.jpg");
+}
+*/
+
+
+
+/* Masonry Collage */
+
+.collage-grid {
+    column-count: 3;
+    column-gap: 12px;
+    padding: 20px;
+}
+
+.collage-item {
+    display: block;
+    break-inside: avoid;
+    margin-bottom: 12px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.collage-item img {
+    width: 100%;
+    display: block;
+    border-radius: 8px;
+}
+
+/* Responsive: fewer columns on smaller screens */
+@media (max-width: 900px) {
+    .collage-grid {
+        column-count: 2;
+    }
+}
+
+@media (max-width: 600px) {
+    .collage-grid {
+        column-count: 1;
+    }
+}
+
+.collage-caption {
+    text-align: center;
+    padding: 6px 0;
+    font-size: 0.9rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin: 20px;
+}
+
+
