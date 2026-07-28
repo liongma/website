@@ -1,14 +1,14 @@
 ---
-title: Spark Gap Tesla Coil
-date: 2023-07-26
+title: Spark Gap Mini
+date: 2020-12-28
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
-  alt: inverter-module
-  caption: 50kW Inverter Module
+  image: cover.png
+  alt: sparkgap
+  caption: Spark Gap Tesla Coil
   relative: true
 ---
 Spark gap tesla coil are definitely one of the scariest you can make. Not only are they super illegal, but they're also very dangerous and violent. I made 3, and they're soooooo cool. They also absolutely rust the heck out of the spark gaps on account of the excessive amounts of ozone generation. I have them powered from various size flyback generators. Since its a pulsed power source, the resonance calculations are not as important meaning its not too difficult to scrap one together without a ton of analysis. 

@@ -1,12 +1,12 @@
 ---
 title: GaN DAB Converter
-date: 2026-07-26
+date: 2025-08-21
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
+  image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true

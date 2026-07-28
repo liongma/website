@@ -1,6 +1,6 @@
 ---
 title: Alarm Clock
-date: 2026-07-26
+date: 2021-10-16
 summary: A one-line description for the projects list
 tags:
   - python
@@ -11,7 +11,4 @@ cover:
   caption: clock
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello

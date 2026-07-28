@@ -1,12 +1,12 @@
 ---
 title: Un-Toaster
-date: 2023-07-26
+date: 2021-11-28
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
+  image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true

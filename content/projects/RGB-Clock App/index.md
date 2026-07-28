@@ -1,12 +1,12 @@
 ---
 title: RGB Clock App
-date: 2023-07-26
+date: 2022-01-01
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: cover.jpg
+  image: cover.png
   alt: clock
   caption: RGB Clock!
   relative: true

@@ -1,17 +1,14 @@
 ---
 title: Gesture Replicator
-date: 2023-07-26
+date: 2020-12-10
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
-  alt: inverter-module
-  caption: 50kW Inverter Module
+  image: cover.png
+  alt: Gesture Replicator
+  caption: Gesture Replicator
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello

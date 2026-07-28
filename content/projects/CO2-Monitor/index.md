@@ -1,17 +1,14 @@
 ---
 title: CO2-Monitor
-date: 2023-07-26
+date: 2021-11-04
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
+  image: cover.jpg
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello

@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Controls</title>
-      <link>http://localhost:1313/tags/controls/</link>
-      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/controls/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Python</title>
       <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
@@ -34,6 +27,13 @@
       <link>http://localhost:1313/tags/react/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Controls</title>
+      <link>http://localhost:1313/tags/controls/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/controls/</guid>
       <description></description>
     </item>
   </channel>

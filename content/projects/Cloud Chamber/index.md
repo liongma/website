@@ -1,17 +1,13 @@
 ---
-title: SiC Inverter
-date: 2026-07-26
+title: Cloud Chamber
+date: 2022-05-26
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
+  image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello

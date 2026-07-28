@@ -1,12 +1,12 @@
 ---
 title: Active Aero Driver
-date: 2026-07-26
+date: 2025-05-31
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: cover.jpg
+  image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true

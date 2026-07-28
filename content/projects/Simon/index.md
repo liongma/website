@@ -1,12 +1,12 @@
 ---
 title: Simon Game
-date: 2026-07-26
+date: 2020-10-06
 summary: A one-line description for the projects list
 tags:
   - python
   - react
 cover:
-  image: inverter_module.jpg
+  image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
