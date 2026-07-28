@@ -1,6 +1,10 @@
 ---
 title: "Inverter"
 layout: "artwork-series"
-cover: "cover.jpg"
+cover:
+    image: "cover.jpg"
+    alt: "Inverter assembly"
+    relative: true
+
 summary: "A collection of Inverter studies"
 ---

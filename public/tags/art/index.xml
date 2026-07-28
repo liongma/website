@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Art on Liong Ma</title>
-    <link>http://localhost:1313/tags/art/</link>
+    <link>http://liongma.github.io/tags/art/</link>
     <description>Recent content in Art on Liong Ma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://liongma.github.io/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SHIRTS</title>
-      <link>http://localhost:1313/posts/shirt/</link>
+      <link>http://liongma.github.io/posts/shirt/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/shirt/</guid>
+      <guid>http://liongma.github.io/posts/shirt/</guid>
       <description>A one-line description for the projects list</description>
     </item>
   </channel>
