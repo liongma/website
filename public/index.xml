@@ -2,556 +2,556 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Liong Ma</title>
-    <link>http://liongma.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Liong Ma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://liongma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SHIRTS</title>
-      <link>http://liongma.github.io/posts/shirt/</link>
+      <link>http://localhost:1313/posts/shirt/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/posts/shirt/</guid>
+      <guid>http://localhost:1313/posts/shirt/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>SiC Inverter</title>
-      <link>http://liongma.github.io/projects/inverter-26/</link>
+      <link>http://localhost:1313/projects/inverter-26/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/inverter-26/</guid>
+      <guid>http://localhost:1313/projects/inverter-26/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Inverter Optimizer</title>
-      <link>http://liongma.github.io/projects/inverter-sim/</link>
+      <link>http://localhost:1313/projects/inverter-sim/</link>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/inverter-sim/</guid>
+      <guid>http://localhost:1313/projects/inverter-sim/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>PMSM Controls</title>
-      <link>http://liongma.github.io/projects/pmsm-control/</link>
+      <link>http://localhost:1313/projects/pmsm-control/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/pmsm-control/</guid>
+      <guid>http://localhost:1313/projects/pmsm-control/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Quad Inverter</title>
-      <link>http://liongma.github.io/projects/inverter-26-asm/</link>
+      <link>http://localhost:1313/projects/inverter-26-asm/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/inverter-26-asm/</guid>
+      <guid>http://localhost:1313/projects/inverter-26-asm/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>GaN DAB Converter</title>
-      <link>http://liongma.github.io/projects/gan-dab/</link>
+      <link>http://localhost:1313/projects/gan-dab/</link>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/gan-dab/</guid>
+      <guid>http://localhost:1313/projects/gan-dab/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>LV Battery</title>
-      <link>http://liongma.github.io/projects/lv-battery/</link>
+      <link>http://localhost:1313/projects/lv-battery/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/lv-battery/</guid>
+      <guid>http://localhost:1313/projects/lv-battery/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Active Aero Driver</title>
-      <link>http://liongma.github.io/projects/aa-board/</link>
+      <link>http://localhost:1313/projects/aa-board/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/aa-board/</guid>
+      <guid>http://localhost:1313/projects/aa-board/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>SiC Inverter</title>
-      <link>http://liongma.github.io/projects/inverter-25/</link>
+      <link>http://localhost:1313/projects/inverter-25/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/inverter-25/</guid>
+      <guid>http://localhost:1313/projects/inverter-25/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Microwave Gun</title>
-      <link>http://liongma.github.io/projects/microwave/</link>
+      <link>http://localhost:1313/projects/microwave/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/microwave/</guid>
+      <guid>http://localhost:1313/projects/microwave/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Mini Telsa Coil</title>
-      <link>http://liongma.github.io/projects/toy-coil/</link>
+      <link>http://localhost:1313/projects/toy-coil/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/toy-coil/</guid>
+      <guid>http://localhost:1313/projects/toy-coil/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Sentient Fridge</title>
-      <link>http://liongma.github.io/projects/sentient-fridge/</link>
+      <link>http://localhost:1313/projects/sentient-fridge/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/sentient-fridge/</guid>
+      <guid>http://localhost:1313/projects/sentient-fridge/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Vortex Fountain</title>
-      <link>http://liongma.github.io/projects/fountain/</link>
+      <link>http://localhost:1313/projects/fountain/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/fountain/</guid>
+      <guid>http://localhost:1313/projects/fountain/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Scanning Quantum Tunneling Microscope</title>
-      <link>http://liongma.github.io/projects/stm/</link>
+      <link>http://localhost:1313/projects/stm/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/stm/</guid>
+      <guid>http://localhost:1313/projects/stm/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Fluid Visualizer</title>
-      <link>http://liongma.github.io/projects/laser-gas/</link>
+      <link>http://localhost:1313/projects/laser-gas/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/laser-gas/</guid>
+      <guid>http://localhost:1313/projects/laser-gas/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Plasma Orb</title>
-      <link>http://liongma.github.io/projects/plasma-orb/</link>
+      <link>http://localhost:1313/projects/plasma-orb/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/plasma-orb/</guid>
+      <guid>http://localhost:1313/projects/plasma-orb/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Plasma Ring</title>
-      <link>http://liongma.github.io/projects/plasma-ring/</link>
+      <link>http://localhost:1313/projects/plasma-ring/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/plasma-ring/</guid>
+      <guid>http://localhost:1313/projects/plasma-ring/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Solid State Tesla Coil</title>
-      <link>http://liongma.github.io/projects/hftc/</link>
+      <link>http://localhost:1313/projects/hftc/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/hftc/</guid>
+      <guid>http://localhost:1313/projects/hftc/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RGB Mask</title>
-      <link>http://liongma.github.io/projects/rgb-mask/</link>
+      <link>http://localhost:1313/projects/rgb-mask/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-mask/</guid>
+      <guid>http://localhost:1313/projects/rgb-mask/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Mini Buck</title>
-      <link>http://liongma.github.io/projects/buck-mini/</link>
+      <link>http://localhost:1313/projects/buck-mini/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/buck-mini/</guid>
+      <guid>http://localhost:1313/projects/buck-mini/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>LED Screen</title>
-      <link>http://liongma.github.io/projects/ae-screen/</link>
+      <link>http://localhost:1313/projects/ae-screen/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/ae-screen/</guid>
+      <guid>http://localhost:1313/projects/ae-screen/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Laser Gun</title>
-      <link>http://liongma.github.io/projects/laser-gun/</link>
+      <link>http://localhost:1313/projects/laser-gun/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/laser-gun/</guid>
+      <guid>http://localhost:1313/projects/laser-gun/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Laser Pointer</title>
-      <link>http://liongma.github.io/projects/laser-pointer/</link>
+      <link>http://localhost:1313/projects/laser-pointer/</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/laser-pointer/</guid>
+      <guid>http://localhost:1313/projects/laser-pointer/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Reflow Plate</title>
-      <link>http://liongma.github.io/projects/reflow/</link>
+      <link>http://localhost:1313/projects/reflow/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/reflow/</guid>
+      <guid>http://localhost:1313/projects/reflow/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Electric Race Car</title>
-      <link>http://liongma.github.io/projects/car/</link>
+      <link>http://localhost:1313/projects/car/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/car/</guid>
+      <guid>http://localhost:1313/projects/car/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Spot Welder</title>
-      <link>http://liongma.github.io/projects/spot-welder/</link>
+      <link>http://localhost:1313/projects/spot-welder/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spot-welder/</guid>
+      <guid>http://localhost:1313/projects/spot-welder/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Optical Spectrometer</title>
-      <link>http://liongma.github.io/projects/spectrometer/</link>
+      <link>http://localhost:1313/projects/spectrometer/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spectrometer/</guid>
+      <guid>http://localhost:1313/projects/spectrometer/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Custom Nano</title>
-      <link>http://liongma.github.io/projects/arduino/</link>
+      <link>http://localhost:1313/projects/arduino/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/arduino/</guid>
+      <guid>http://localhost:1313/projects/arduino/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Voltage Multiplier</title>
-      <link>http://liongma.github.io/projects/hvdc/</link>
+      <link>http://localhost:1313/projects/hvdc/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/hvdc/</guid>
+      <guid>http://localhost:1313/projects/hvdc/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Flyback Generator</title>
-      <link>http://liongma.github.io/projects/hv-flyback/</link>
+      <link>http://localhost:1313/projects/hv-flyback/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/hv-flyback/</guid>
+      <guid>http://localhost:1313/projects/hv-flyback/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Floodlight</title>
-      <link>http://liongma.github.io/projects/floodlight/</link>
+      <link>http://localhost:1313/projects/floodlight/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/floodlight/</guid>
+      <guid>http://localhost:1313/projects/floodlight/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Seismometer</title>
-      <link>http://liongma.github.io/projects/seismometer/</link>
+      <link>http://localhost:1313/projects/seismometer/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/seismometer/</guid>
+      <guid>http://localhost:1313/projects/seismometer/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Thermocouple</title>
-      <link>http://liongma.github.io/projects/thermocouple/</link>
+      <link>http://localhost:1313/projects/thermocouple/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/thermocouple/</guid>
+      <guid>http://localhost:1313/projects/thermocouple/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>UV Lamp</title>
-      <link>http://liongma.github.io/projects/uv/</link>
+      <link>http://localhost:1313/projects/uv/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/uv/</guid>
+      <guid>http://localhost:1313/projects/uv/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Nuclear Fusor</title>
-      <link>http://liongma.github.io/projects/fusor/</link>
+      <link>http://localhost:1313/projects/fusor/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/fusor/</guid>
+      <guid>http://localhost:1313/projects/fusor/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Light Display</title>
-      <link>http://liongma.github.io/projects/rgb-display/</link>
+      <link>http://localhost:1313/projects/rgb-display/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-display/</guid>
+      <guid>http://localhost:1313/projects/rgb-display/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Jacobs Ladder</title>
-      <link>http://liongma.github.io/projects/jacobs-ladder/</link>
+      <link>http://localhost:1313/projects/jacobs-ladder/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/jacobs-ladder/</guid>
+      <guid>http://localhost:1313/projects/jacobs-ladder/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>HV Transformer</title>
-      <link>http://liongma.github.io/projects/hv-transformer/</link>
+      <link>http://localhost:1313/projects/hv-transformer/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/hv-transformer/</guid>
+      <guid>http://localhost:1313/projects/hv-transformer/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Reality Breaker</title>
-      <link>http://liongma.github.io/projects/reality-breaker/</link>
+      <link>http://localhost:1313/projects/reality-breaker/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/reality-breaker/</guid>
+      <guid>http://localhost:1313/projects/reality-breaker/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Cloud Chamber</title>
-      <link>http://liongma.github.io/projects/cloud-chamber/</link>
+      <link>http://localhost:1313/projects/cloud-chamber/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/cloud-chamber/</guid>
+      <guid>http://localhost:1313/projects/cloud-chamber/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Electric Boat Battery</title>
-      <link>http://liongma.github.io/projects/ae-battery/</link>
+      <link>http://localhost:1313/projects/ae-battery/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/ae-battery/</guid>
+      <guid>http://localhost:1313/projects/ae-battery/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Electric Boat Inverter</title>
-      <link>http://liongma.github.io/projects/ae-boat/</link>
+      <link>http://localhost:1313/projects/ae-boat/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/ae-boat/</guid>
+      <guid>http://localhost:1313/projects/ae-boat/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RGB Clock</title>
-      <link>http://liongma.github.io/projects/rgb-clock/</link>
+      <link>http://localhost:1313/projects/rgb-clock/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-clock/</guid>
+      <guid>http://localhost:1313/projects/rgb-clock/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RGB Clock App</title>
-      <link>http://liongma.github.io/projects/rgb-clock-app/</link>
+      <link>http://localhost:1313/projects/rgb-clock-app/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-clock-app/</guid>
+      <guid>http://localhost:1313/projects/rgb-clock-app/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Tesseract</title>
-      <link>http://liongma.github.io/projects/tesseract/</link>
+      <link>http://localhost:1313/projects/tesseract/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/tesseract/</guid>
+      <guid>http://localhost:1313/projects/tesseract/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Tesseract Mini</title>
-      <link>http://liongma.github.io/projects/tesseract-mini/</link>
+      <link>http://localhost:1313/projects/tesseract-mini/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/tesseract-mini/</guid>
+      <guid>http://localhost:1313/projects/tesseract-mini/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Remote Relay</title>
-      <link>http://liongma.github.io/projects/remote-relay/</link>
+      <link>http://localhost:1313/projects/remote-relay/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/remote-relay/</guid>
+      <guid>http://localhost:1313/projects/remote-relay/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Un-Toaster</title>
-      <link>http://liongma.github.io/projects/untoaster/</link>
+      <link>http://localhost:1313/projects/untoaster/</link>
       <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/untoaster/</guid>
+      <guid>http://localhost:1313/projects/untoaster/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>UWU Light</title>
-      <link>http://liongma.github.io/projects/uwu-light/</link>
+      <link>http://localhost:1313/projects/uwu-light/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/uwu-light/</guid>
+      <guid>http://localhost:1313/projects/uwu-light/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Bio Poster</title>
-      <link>http://liongma.github.io/projects/bio-proj/</link>
+      <link>http://localhost:1313/projects/bio-proj/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/bio-proj/</guid>
+      <guid>http://localhost:1313/projects/bio-proj/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>CO2-Monitor</title>
-      <link>http://liongma.github.io/projects/co2-monitor/</link>
+      <link>http://localhost:1313/projects/co2-monitor/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/co2-monitor/</guid>
+      <guid>http://localhost:1313/projects/co2-monitor/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Pumpkin Cat</title>
-      <link>http://liongma.github.io/projects/pumpkin/</link>
+      <link>http://localhost:1313/projects/pumpkin/</link>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/pumpkin/</guid>
+      <guid>http://localhost:1313/projects/pumpkin/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Alarm Clock</title>
-      <link>http://liongma.github.io/projects/clock/</link>
+      <link>http://localhost:1313/projects/clock/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/clock/</guid>
+      <guid>http://localhost:1313/projects/clock/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Mushroom Lights</title>
-      <link>http://liongma.github.io/projects/mushroom/</link>
+      <link>http://localhost:1313/projects/mushroom/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/mushroom/</guid>
+      <guid>http://localhost:1313/projects/mushroom/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Plasma Vortex</title>
-      <link>http://liongma.github.io/projects/vortex/</link>
+      <link>http://localhost:1313/projects/vortex/</link>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/vortex/</guid>
+      <guid>http://localhost:1313/projects/vortex/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Plasma Flame Generator</title>
-      <link>http://liongma.github.io/projects/plasma-gen/</link>
+      <link>http://localhost:1313/projects/plasma-gen/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/plasma-gen/</guid>
+      <guid>http://localhost:1313/projects/plasma-gen/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Spark Gap Big</title>
-      <link>http://liongma.github.io/projects/spark-gap-hv/</link>
+      <link>http://localhost:1313/projects/spark-gap-hv/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spark-gap-hv/</guid>
+      <guid>http://localhost:1313/projects/spark-gap-hv/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Flyback Generator</title>
-      <link>http://liongma.github.io/projects/fractal/</link>
+      <link>http://localhost:1313/projects/fractal/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/fractal/</guid>
+      <guid>http://localhost:1313/projects/fractal/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Spark Gap</title>
-      <link>http://liongma.github.io/projects/spark-gap-big/</link>
+      <link>http://localhost:1313/projects/spark-gap-big/</link>
       <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spark-gap-big/</guid>
+      <guid>http://localhost:1313/projects/spark-gap-big/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Slayer Exciter</title>
-      <link>http://liongma.github.io/projects/slayer-exciter/</link>
+      <link>http://localhost:1313/projects/slayer-exciter/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/slayer-exciter/</guid>
+      <guid>http://localhost:1313/projects/slayer-exciter/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Theremin</title>
-      <link>http://liongma.github.io/projects/theremin/</link>
+      <link>http://localhost:1313/projects/theremin/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/theremin/</guid>
+      <guid>http://localhost:1313/projects/theremin/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Spark Gap Mini</title>
-      <link>http://liongma.github.io/projects/spark-gap/</link>
+      <link>http://localhost:1313/projects/spark-gap/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spark-gap/</guid>
+      <guid>http://localhost:1313/projects/spark-gap/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Kirlian Photography</title>
-      <link>http://liongma.github.io/projects/kirlian/</link>
+      <link>http://localhost:1313/projects/kirlian/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/kirlian/</guid>
+      <guid>http://localhost:1313/projects/kirlian/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Gesture Replicator</title>
-      <link>http://liongma.github.io/projects/gesture-rep/</link>
+      <link>http://localhost:1313/projects/gesture-rep/</link>
       <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/gesture-rep/</guid>
+      <guid>http://localhost:1313/projects/gesture-rep/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Quadracopter Drone</title>
-      <link>http://liongma.github.io/projects/drone/</link>
+      <link>http://localhost:1313/projects/drone/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/drone/</guid>
+      <guid>http://localhost:1313/projects/drone/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Simon Game</title>
-      <link>http://liongma.github.io/projects/simon/</link>
+      <link>http://localhost:1313/projects/simon/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/simon/</guid>
+      <guid>http://localhost:1313/projects/simon/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Remote</title>
-      <link>http://liongma.github.io/projects/remote/</link>
+      <link>http://localhost:1313/projects/remote/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/remote/</guid>
+      <guid>http://localhost:1313/projects/remote/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Quadraped</title>
-      <link>http://liongma.github.io/projects/spider/</link>
+      <link>http://localhost:1313/projects/spider/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/spider/</guid>
+      <guid>http://localhost:1313/projects/spider/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RGB Print</title>
-      <link>http://liongma.github.io/projects/rgb-print/</link>
+      <link>http://localhost:1313/projects/rgb-print/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-print/</guid>
+      <guid>http://localhost:1313/projects/rgb-print/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RGB Violin</title>
-      <link>http://liongma.github.io/projects/rgb-violin/</link>
+      <link>http://localhost:1313/projects/rgb-violin/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rgb-violin/</guid>
+      <guid>http://localhost:1313/projects/rgb-violin/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Line Follower</title>
-      <link>http://liongma.github.io/projects/line-follower/</link>
+      <link>http://localhost:1313/projects/line-follower/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/line-follower/</guid>
+      <guid>http://localhost:1313/projects/line-follower/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RC Car</title>
-      <link>http://liongma.github.io/projects/rc-car-2/</link>
+      <link>http://localhost:1313/projects/rc-car-2/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rc-car-2/</guid>
+      <guid>http://localhost:1313/projects/rc-car-2/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>RC Car</title>
-      <link>http://liongma.github.io/projects/rc-car/</link>
+      <link>http://localhost:1313/projects/rc-car/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/rc-car/</guid>
+      <guid>http://localhost:1313/projects/rc-car/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Toy Car</title>
-      <link>http://liongma.github.io/projects/toy-car/</link>
+      <link>http://localhost:1313/projects/toy-car/</link>
       <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/toy-car/</guid>
+      <guid>http://localhost:1313/projects/toy-car/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Cardboard Robot Arm</title>
-      <link>http://liongma.github.io/projects/cardboard-arm/</link>
+      <link>http://localhost:1313/projects/cardboard-arm/</link>
       <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/cardboard-arm/</guid>
+      <guid>http://localhost:1313/projects/cardboard-arm/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Swamp Cooler</title>
-      <link>http://liongma.github.io/projects/swamp-cooler/</link>
+      <link>http://localhost:1313/projects/swamp-cooler/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/projects/swamp-cooler/</guid>
+      <guid>http://localhost:1313/projects/swamp-cooler/</guid>
       <description>A one-line description for the projects list</description>
     </item>
     <item>
       <title>Inverter</title>
-      <link>http://liongma.github.io/artwork/inverter/</link>
+      <link>http://localhost:1313/artwork/inverter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/artwork/inverter/</guid>
+      <guid>http://localhost:1313/artwork/inverter/</guid>
       <description>A collection of Inverter studies</description>
     </item>
     <item>
       <title>Plasma</title>
-      <link>http://liongma.github.io/artwork/plasma/</link>
+      <link>http://localhost:1313/artwork/plasma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/artwork/plasma/</guid>
+      <guid>http://localhost:1313/artwork/plasma/</guid>
       <description>A collection of Plasma studies</description>
     </item>
   </channel>

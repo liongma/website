@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Artwork on Liong Ma</title>
-    <link>http://liongma.github.io/artwork/</link>
+    <link>http://localhost:1313/artwork/</link>
     <description>Recent content in Artwork on Liong Ma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://liongma.github.io/artwork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/artwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inverter</title>
-      <link>http://liongma.github.io/artwork/inverter/</link>
+      <link>http://localhost:1313/artwork/inverter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/artwork/inverter/</guid>
+      <guid>http://localhost:1313/artwork/inverter/</guid>
       <description>A collection of Inverter studies</description>
     </item>
     <item>
       <title>Plasma</title>
-      <link>http://liongma.github.io/artwork/plasma/</link>
+      <link>http://localhost:1313/artwork/plasma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://liongma.github.io/artwork/plasma/</guid>
+      <guid>http://localhost:1313/artwork/plasma/</guid>
       <description>A collection of Plasma studies</description>
     </item>
   </channel>
