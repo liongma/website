@@ -238,3 +238,28 @@ html.dark {
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
+
+/* ==========================================================================
+   Cat Walking Around
+   ========================================================================== */
+
+
+.walking-cat {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 32px;
+    height: 32px;
+    background-image: url('/images/cat-walk-sprite.png');
+    background-repeat: no-repeat;
+    background-size: 32px 32px; /* 8 frames * 64px each */
+    animation: cat-walk-cycle 0.8s steps(1) infinite;
+    z-index: 9999;
+    pointer-events: none;
+    image-rendering: pixelated; /* keep crisp if pixel-art style */
+}
+
+@keyframes cat-walk-cycle {
+    from { background-position: 0 0; }
+    to { background-position: -512px 0; }
+}

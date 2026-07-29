@@ -7,3 +7,87 @@
       {left: '$', right: '$', display: false}
     ]
   });"></script>
+
+
+{{ if eq .RelPermalink "/about/" }}
+<div id="walking-cat" class="walking-cat" style="display: none;"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const cat = document.getElementById("walking-cat");
+  let x, y, dx, dy;
+  let entered = false;
+
+const speed = 0.6; // <-- adjust this single number to change overall speed
+
+function startCat() {
+  const maxX = window.innerWidth - 64;
+  const maxY = window.innerHeight - 64;
+  const edge = Math.floor(Math.random() * 4);
+
+  if (edge === 0) {
+    x = Math.random() * maxX; y = -64;
+    dx = (Math.random() - 0.5) * speed; dy = speed;
+  } else if (edge === 1) {
+    x = window.innerWidth; y = Math.random() * maxY;
+    dx = -speed; dy = (Math.random() - 0.5) * speed;
+  } else if (edge === 2) {
+    x = Math.random() * maxX; y = window.innerHeight;
+    dx = (Math.random() - 0.5) * speed; dy = -speed;
+  } else {
+    x = -64; y = Math.random() * maxY;
+    dx = speed; dy = (Math.random() - 0.5) * speed;
+  }
+
+    cat.style.display = "block";
+    cat.style.left = x + "px";
+    cat.style.top = y + "px";
+    cat.style.transform = dx < 0 ? "scaleX(-1)" : "scaleX(1)";
+
+    requestAnimationFrame(enterLoop);
+  }
+
+  function enterLoop() {
+    const maxX = window.innerWidth - 64;
+    const maxY = window.innerHeight - 64;
+
+    x += dx;
+    y += dy;
+    cat.style.left = x + "px";
+    cat.style.top = y + "px";
+
+    // Once fully inside the visible bounds, switch to normal bounce logic
+    if (x >= 0 && x <= maxX && y >= 0 && y <= maxY) {
+      entered = true;
+      requestAnimationFrame(moveCat);
+    } else {
+      requestAnimationFrame(enterLoop);
+    }
+  }
+
+  function moveCat() {
+    const maxX = window.innerWidth - 64;
+    const maxY = window.innerHeight - 64;
+
+    x += dx;
+    y += dy;
+
+    if (x >= maxX || x <= 0) {
+      dx *= -1;
+      cat.style.transform = dx > 0 ? "scaleX(1)" : "scaleX(-1)";
+    }
+    if (y >= maxY || y <= 0) {
+      dy *= -1;
+    }
+
+    cat.style.left = x + "px";
+    cat.style.top = y + "px";
+
+    requestAnimationFrame(moveCat);
+  }
+
+  setTimeout(startCat, 5000);
+});
+</script>
+
+{{ end }}
