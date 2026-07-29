@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $catFiles := readDir "static/images/cats" }}
+{{ $imageFiles := where $catFiles "Name" "like" `\.(png|jpg|jpeg|gif)$` }}
+
+<script id="cat-list" type="application/json">
+[
+  {{- range $i, $f := $imageFiles -}}
+    {{- if $i }},{{ end -}}
+    "/images/cats/{{ $f.Name }}"
+  {{- end -}}
+]
+</script>
+
+<div style="display: flex; justify-content: center; align-items: center; min-height: 80vh; padding: 20px;">
+  <img id="random-cat" src="" alt="Cat" style="max-width: 100%; max-height: 85vh; border-radius: 12px;">
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const catData = document.getElementById("cat-list");
+  const cats = JSON.parse(catData.textContent);
+  const img = document.getElementById("random-cat");
+  if (cats.length > 0) {
+    const random = cats[Math.floor(Math.random() * cats.length)];
+    img.src = random;
+  }
+});
+</script>
+{{ end }}

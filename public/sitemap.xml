@@ -259,6 +259,8 @@
   </url><url>
     <loc>http://localhost:1313/artwork/</loc>
   </url><url>
+    <loc>http://localhost:1313/cat/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/artwork/inverter/</loc>

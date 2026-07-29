@@ -541,6 +541,13 @@
       <description>A one-line description for the projects list</description>
     </item>
     <item>
+      <title>Cat</title>
+      <link>http://localhost:1313/cat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cat/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Inverter</title>
       <link>http://localhost:1313/artwork/inverter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -17,12 +17,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("open-tabs-btn");
   if (btn) {
     btn.addEventListener("click", function () {
-      const urls = [
-        "https://example.com",
-        "https://www.wikipedia.org",
-        "https://httpbin.org"
-      ];
-      urls.forEach(url => window.open(url, "_blank"));
+      for (let i = 0; i < 5; i++) {
+        window.open("/cat/", "_blank");
+      }
     });
   }
 });
