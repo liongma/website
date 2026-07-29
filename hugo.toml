@@ -5,6 +5,11 @@ locale = 'en-us'
 title = 'Liong Ma'
 theme = "PaperMod"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   mainSections = ["projects"]
   comments = true

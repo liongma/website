@@ -10,7 +10,7 @@
 <meta name="description" content="A one-line description for the projects list">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/projects/laser-pointer/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.721fdae519b2a0e42b197ae46462ccc37d7c1e9441df37b14c17ed736a16311b.css" integrity="sha256-ch/a5RmyoOQrGXrkZGLMw318HpRB3zexTBftc2oWMRs=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.0a385cf7dcd3bc22dae52847b94e871ca688aaa5dc86021669579c7470b77996.css" integrity="sha256-Cjhc99zTvCLa5ShHuU6HHKaIqqXchgIWaVecdHC3eZY=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -64,21 +64,30 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
-  onload="renderMathInElement(document.body, {
-    delimiters: [
-      {left: '$$', right: '$$', display: true},
-      {left: '$', right: '$', display: false}
-    ]
-  });"></script>
+</script>
 </head>
 <body id="top">
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Liong Ma (Alt + H)">Liong Ma</a>
+            <script id="logo-list" type="application/json">
+["/images/logos/cat.png","/images/logos/cat1.png"]
+            </script>
+
+            <a href="http://localhost:1313/" accesskey="h" title="Liong Ma (Alt + H)">
+            <img id="random-logo" src="/images/logos/cat.png" alt="Logo" style="height: 32px; width: auto; vertical-align: middle;">Liong Ma</a>
+
+            <script>
+            document.addEventListener("DOMContentLoaded", function () {
+              const logoData = document.getElementById("logo-list");
+              const logos = JSON.parse(logoData.textContent);
+              const logo = document.getElementById("random-logo");
+              if (logo && logos.length > 0) {
+                const random = logos[Math.floor(Math.random() * logos.length)];
+                logo.src = random;
+              }
+            });
+            </script>
             <div class="logo-switches">
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
@@ -125,8 +134,7 @@
             </li>
         </ul>
     </nav>
-</header>
-<main class="main">
+</header><main class="main">
 
 <article class="post-single">
   <header class="post-header">
