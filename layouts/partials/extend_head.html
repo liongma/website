@@ -9,7 +9,6 @@
   });"></script>
 
 
-{{ if eq .RelPermalink "/about/" }}
 <div id="walking-cat" class="walking-cat" style="display: none;"></div>
 
 <script>
@@ -86,8 +85,7 @@ function startCat() {
     requestAnimationFrame(moveCat);
   }
 
-  setTimeout(startCat, 5000);
+  setTimeout(startCat, 1000);
 });
 </script>
 
-{{ end }}

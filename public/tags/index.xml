@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Liong Ma</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://liongma.com/tags/</link>
     <description>Recent content in Tags on Liong Ma</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://liongma.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
+      <link>https://liongma.com/tags/art/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/art/</guid>
+      <guid>https://liongma.com/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://liongma.com/tags/python/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://liongma.com/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>http://localhost:1313/tags/react/</link>
+      <link>https://liongma.com/tags/react/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/react/</guid>
+      <guid>https://liongma.com/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Controls</title>
-      <link>http://localhost:1313/tags/controls/</link>
+      <link>https://liongma.com/tags/controls/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/controls/</guid>
+      <guid>https://liongma.com/tags/controls/</guid>
       <description></description>
     </item>
   </channel>

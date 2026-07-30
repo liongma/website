@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>About | Liong Ma</title>
 <meta name="keywords" content="">
 <meta name="description" content="HELLO
@@ -14,17 +14,17 @@ Your existing about page content here&hellip;
 
 ">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/about/">
+<link rel="canonical" href="https://liongma.com/about/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.132653405317ec5654813255d682843513031a781cf2f7972b336dd39808e875.css" integrity="sha256-EyZTQFMX7FZUgTJV1oKENRMDGngc8veXKzNt05gI6HU=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://liongma.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://liongma.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://liongma.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://liongma.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://liongma.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/about/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/about/">
+<link rel="alternate" type="application/rss+xml" href="https://liongma.com/about/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="https://liongma.com/about/">
 <noscript>
     <style>
         #theme-toggle,
@@ -70,99 +70,34 @@ Your existing about page content here&hellip;
         document.querySelector("html").dataset.theme = 'light';
     }
 
-</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
-  onload="renderMathInElement(document.body, {
-    delimiters: [
-      {left: '$$', right: '$$', display: true},
-      {left: '$', right: '$', display: false}
-    ]
-  });"></script>
+</script><meta property="og:url" content="https://liongma.com/about/">
+  <meta property="og:site_name" content="Liong Ma">
+  <meta property="og:title" content="About">
+  <meta property="og:description" content="HELLO Your existing about page content here…
+Open dummy sites">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="About">
+  <meta name="twitter:description" content="HELLO Your existing about page content here…
+Open dummy sites">
 
 
-
-<div id="walking-cat" class="walking-cat" style="display: none;"></div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const cat = document.getElementById("walking-cat");
-  let x, y, dx, dy;
-  let entered = false;
-
-const speed = 0.6; 
-
-function startCat() {
-  const maxX = window.innerWidth - 64;
-  const maxY = window.innerHeight - 64;
-  const edge = Math.floor(Math.random() * 4);
-
-  if (edge === 0) {
-    x = Math.random() * maxX; y = -64;
-    dx = (Math.random() - 0.5) * speed; dy = speed;
-  } else if (edge === 1) {
-    x = window.innerWidth; y = Math.random() * maxY;
-    dx = -speed; dy = (Math.random() - 0.5) * speed;
-  } else if (edge === 2) {
-    x = Math.random() * maxX; y = window.innerHeight;
-    dx = (Math.random() - 0.5) * speed; dy = -speed;
-  } else {
-    x = -64; y = Math.random() * maxY;
-    dx = speed; dy = (Math.random() - 0.5) * speed;
-  }
-
-    cat.style.display = "block";
-    cat.style.left = x + "px";
-    cat.style.top = y + "px";
-    cat.style.transform = dx < 0 ? "scaleX(-1)" : "scaleX(1)";
-
-    requestAnimationFrame(enterLoop);
-  }
-
-  function enterLoop() {
-    const maxX = window.innerWidth - 64;
-    const maxY = window.innerHeight - 64;
-
-    x += dx;
-    y += dy;
-    cat.style.left = x + "px";
-    cat.style.top = y + "px";
-
-    
-    if (x >= 0 && x <= maxX && y >= 0 && y <= maxY) {
-      entered = true;
-      requestAnimationFrame(moveCat);
-    } else {
-      requestAnimationFrame(enterLoop);
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "About",
+      "item": "https://liongma.com/about/"
     }
-  }
-
-  function moveCat() {
-    const maxX = window.innerWidth - 64;
-    const maxY = window.innerHeight - 64;
-
-    x += dx;
-    y += dy;
-
-    if (x >= maxX || x <= 0) {
-      dx *= -1;
-      cat.style.transform = dx > 0 ? "scaleX(1)" : "scaleX(-1)";
-    }
-    if (y >= maxY || y <= 0) {
-      dy *= -1;
-    }
-
-    cat.style.left = x + "px";
-    cat.style.top = y + "px";
-
-    requestAnimationFrame(moveCat);
-  }
-
-  setTimeout(startCat, 5000);
-});
+  ]
+}
 </script>
-
-
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -172,7 +107,7 @@ function startCat() {
 ["/images/logos/cat.png","/images/logos/cat1.png"]
             </script>
 
-            <a href="http://localhost:1313/" accesskey="h" title="Liong Ma (Alt + H)">
+            <a href="https://liongma.com/" accesskey="h" title="Liong Ma (Alt + H)">
             <img id="random-logo" src="/images/logos/cat.png" alt="Logo" style="height: 32px; width: auto; vertical-align: middle;">Liong Ma</a>
 
             <script>
@@ -211,22 +146,22 @@ function startCat() {
         </div>
         <ul id="menu" class="menu">
             <li>
-                <a href="http://localhost:1313/projects/" title="Projects">
+                <a href="https://liongma.com/projects/" title="Projects">
                     <span>Projects</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/posts/" title="Posts">
+                <a href="https://liongma.com/posts/" title="Posts">
                     <span>Posts</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/artwork/" title="Gallery">
+                <a href="https://liongma.com/artwork/" title="Gallery">
                     <span>Gallery</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/about/" title="About">
+                <a href="https://liongma.com/about/" title="About">
                     <span class="active">About</span>
                 </a>
             </li>
@@ -260,7 +195,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/">Liong Ma</a></span> · 
+        <span>&copy; 2026 <a href="https://liongma.com/">Liong Ma</a></span> · 
 
     
     
