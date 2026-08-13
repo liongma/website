@@ -26,4 +26,23 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 </script>
+
+<button id="open-tabs-btn" style="padding: 10px 20px; border-radius: 8px; border: 1px solid var(--border); background: var(--entry); cursor: pointer; font-size: 0.95rem;">
+  Click me >:D
+</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const btn = document.getElementById("open-tabs-btn");
+  if (btn) {
+    btn.addEventListener("click", function () {
+      for (let i = 0; i < 50; i++) {
+        window.open("/cat/", "_blank");
+      }
+    });
+  }
+});
+</script>
+
+
 {{ end }}
