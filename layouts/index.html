@@ -25,7 +25,20 @@
 </section>
 
 <section class="home-artwork">
-  <h2>Artwork</h2>
+  <h2>Featured Artwork</h2>
+  <div class="collage-grid">
+    {{ $featuredArt := where site.RegularPages "Type" "artwork" }}
+    {{ $featuredArt = where $featuredArt "Params.featured" "!=" nil }}
+    {{ range sort $featuredArt "Params.featured" }}
+      <a href="{{ .RelPermalink }}" class="collage-item">
+        {{ $cover := .Resources.GetMatch (.Params.cover.image) }}
+        {{ if $cover }}
+          <img src="{{ $cover.RelPermalink }}" alt="{{ .Title }}" loading="lazy">
+        {{ end }}
+        <div class="collage-caption">{{ .Title }}</div>
+      </a>
+    {{ end }}
+  </div>
   <a href="/artwork/">Browse the gallery →</a>
 </section>
 {{ end }}

@@ -1,11 +1,11 @@
 ---
-title: "Plasma"
+title: "Boat"
 layout: "artwork-series"
 cover:
     image: "cover.png"
     alt: ""
     relative: true
 summary: ""
-featured: "1"
+featured: "2"
 
 ---
