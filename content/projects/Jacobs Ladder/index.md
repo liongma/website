@@ -3,8 +3,7 @@ title: Jacobs Ladder
 date: 2022-07-26
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: sparkgap

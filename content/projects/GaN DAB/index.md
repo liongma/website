@@ -3,8 +3,9 @@ title: GaN DAB Converter
 date: 2025-08-21
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - good
+  - power
+  - pcb
 cover:
   image: cover.png
   alt: inverter-module

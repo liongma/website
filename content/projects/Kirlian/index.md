@@ -3,8 +3,7 @@ title: Kirlian Photography
 date: 2020-12-21
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: sparkgap

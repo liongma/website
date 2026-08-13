@@ -3,8 +3,7 @@ title: Vortex Fountain
 date: 2024-07-16
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: inverter-module

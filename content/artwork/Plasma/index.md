@@ -2,8 +2,8 @@
 title: "Plasma"
 layout: "artwork-series"
 cover:
-    image: "cover.jpg"
-    alt: "Inverter assembly"
+    image: "cover.png"
+    alt: ""
     relative: true
-summary: "A collection of Plasma studies"
+summary: ""
 ---

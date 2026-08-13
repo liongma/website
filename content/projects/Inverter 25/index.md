@@ -3,8 +3,8 @@ title: SiC Inverter
 date: 2025-04-24
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - power 
+  - pcb
 cover:
   image: cover.png
   alt: inverter-module

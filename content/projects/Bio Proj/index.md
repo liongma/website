@@ -3,8 +3,8 @@ title: Bio Poster
 date: 2021-11-14
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - rgb
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module

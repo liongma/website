@@ -3,8 +3,7 @@ title: Flyback Generator
 date: 2022-12-28
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: inverter-module

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c7f1c6247c597f8",
+        "id": "8f178426cf05d6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3652913a07ba7a",
+            "id": "c2adb614acb4e403",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/AE-Battery/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,53 +181,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c3652913a07ba7a",
+  "active": "c2adb614acb4e403",
   "lastOpenFiles": [
+    "posts/Website!/index.md",
+    "posts/_index.md",
+    "about/_index.md",
+    "about/image.jpg",
+    "artwork/Tesseract/Cube_2022_11_26.JPG",
+    "artwork/Tesseract/IMG_20220101_150858.jpg",
+    "artwork/Plasma/cover copy.png",
+    "artwork/Tesseract/cover copy.jpg",
+    "artwork/Plasma/sfjksda.png",
+    "artwork/Plasma/plasma copy.png",
+    "artwork/Plasma/plasma.png",
+    "artwork/Tesseract/cover.jpg",
+    "artwork/Tesseract/IMG_20211231_043855.jpg",
+    "artwork/Tesseract/index.md",
+    "artwork/Tesseract/Liong_coil4_2020_12_28.HEIC",
+    "artwork/Tesseract",
+    "artwork/Plasma copy/index.md",
+    "artwork/Plasma copy/Liong_coil4_2020_12_28.HEIC",
+    "artwork/Plasma copy",
+    "artwork/Plasma/Liong_coil4_2020_12_28.HEIC",
+    "artwork/_index.md",
+    "projects/Car/index.md",
+    "projects/Arduino/index.md",
+    "projects/AE-Boat/index.md",
+    "projects/AE-Battery/index.md",
+    "projects/AA Board/index.md",
+    "projects/AE Screen/index.md",
     "cat/index.md",
     "cat",
-    "projects/Inverter Sim/cover.png",
-    "projects/Inverter Sim/covr.png",
-    "projects/Inverter Sim/image.png",
     "projects/Inverter Sim/index.md",
-    "projects/Inverter Sim/cover.jpg",
     "projects/Inverter Sim",
     "projects/Inverter 26 copy/index.md",
-    "projects/Inverter 26 copy/cover.jpg",
     "projects/Inverter 26 copy",
-    "projects/Inverter 26 Asm/image.png",
-    "projects/Inverter 25/cover.png",
-    "projects/Inverter 25/image.png",
-    "projects/Inverter 26/cover.jpg",
-    "projects/Inverter 26 Asm/cover.png",
     "projects/Inverter 26 Asm/index.md",
     "projects/Inverter 26 Asm",
     "projects/Inverter 26/index.md",
     "projects/Inverter 26",
     "projects/Inverter 25/index.md",
-    "projects/Inverter 25",
     "projects/Inverter/index.md",
-    "projects/Inverter",
-    "projects/Car/index.md",
-    "projects/Car",
     "projects/Bio Proj/index.md",
-    "projects/Bio Proj",
     "projects/UV copy/index.md",
-    "projects/UV copy",
     "projects/Theremin/index.md",
     "projects/Swamp Cooler copy/index.md",
     "projects/Swamp Cooler/index.md",
     "projects/AA Board copy/index.md",
-    "projects/AE Screen/index.md",
-    "projects/AE-Battery copy/index.md",
-    "projects/Fountain/index.md",
-    "projects/SiC-Inverter-1 copy/index.md",
-    "projects/Laser Pointer/index.md",
-    "projects/Laser Gas copy/index.md",
-    "projects/RGB Mask/index.md",
-    "projects/RGB Display copy/index.md",
-    "projects/Buck Mini/index.md",
-    "projects/Mini Buck/index.md",
-    "projects/RGB-Clock copy/index.md",
-    "projects/Remote Relay/Spectrometer/index.md"
+    "projects/AE-Battery copy/index.md"
   ]
 }

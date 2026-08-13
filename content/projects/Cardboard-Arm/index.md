@@ -3,8 +3,7 @@ title: Cardboard Robot Arm
 date: 2019-06-15
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: Cardboard Robot Arm
@@ -12,5 +11,4 @@ cover:
   relative: true
 ---
 
-
-Cardboard Robot Arm
+This was one of my first projects which involved putting multiple functional parts together. This was super cool because it was the first time I made something that was different from the tutorials i saw online. All this one took was some tape, legos, servos, and cardboard. 

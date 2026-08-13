@@ -3,8 +3,9 @@ title: Quad Inverter
 date: 2026-04-27
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - power
+  - good
+  - pcb
 cover:
   image: cover.png
   alt: inverter-module

@@ -3,15 +3,12 @@ title: Laser Gun
 date: 2024-04-02
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
+  - power
 cover:
   image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+Laser guns are not strictly legal but as long as im not selling it or using it, i should be fine. This laser is found in  high power projectors and has been given a new life as this cool laser gun. The laser gets quite hot so its recommended to have a pretty beefy cooling solution on it.  

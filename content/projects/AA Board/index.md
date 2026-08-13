@@ -1,17 +1,15 @@
 ---
 title: Active Aero Driver
 date: 2025-05-31
-summary: A one-line description for the projects list
+summary: dud
 tags:
-  - python
-  - react
+  - pcb
+  - fsae
 cover:
   image: cover.png
-  alt: inverter-module
-  caption: 50kW Inverter Module
+  alt: dud
+  caption: dud
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello
+This was a mini servo driver designed to power the active aero system for MY25. Unfortunately, it did not end up getting used because the mechanical setup for active aero did not end up happening :( 

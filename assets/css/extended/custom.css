@@ -9,23 +9,23 @@ body {
     background: transparent;
 }
 
+
 html {
     /* background-image: url("/images/inverter_assembly.jpg"); */
     background-size: cover;
-    background-position: center;
     background-attachment: fixed;
+} 
+
+
+
+html:not([data-theme="dark"]) {
+    background-image: url("/images/light_scroll.png");
 }
 
-/* Light/dark mode background variants (disabled for now) */
-/*
-html:not(.dark) {
-    background-image: url("/images/background-light.jpg");
+html[data-theme="dark"] {
+    background-image: url("/images/dark_scroll.png");
 }
 
-html.dark {
-    background-image: url("/images/background-dark.jpg");
-}
-*/
 
 /* Transparent overlays so background shows through */
 .header,

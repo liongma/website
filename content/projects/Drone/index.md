@@ -3,8 +3,9 @@ title: Quadracopter Drone
 date: 2020-12-03
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
+  - good
+  - vehicle
 cover:
   image: cover.png
   alt: inverter-module

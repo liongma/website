@@ -3,8 +3,8 @@ title: Solid State Tesla Coil
 date: 2024-05-25
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - pcb
+  - physics
 cover:
   image: cover.png
   alt: inverter-module

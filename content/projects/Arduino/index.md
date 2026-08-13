@@ -3,15 +3,14 @@ title: Custom Nano
 date: 2023-05-02
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - pcb
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello
+This was my first custom microctroller board. I thought it might end up being cheaper to buy a bunch of these really cheap PCBs and solder them myself than  buying a bunch of arduino Nanos. In fact it ended up being a lot more finicky than i originally thought so it looks like making your own custom Nano doesn't make too much sense. 
+

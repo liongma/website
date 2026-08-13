@@ -3,8 +3,8 @@ title: Inverter Optimizer
 date: 2026-07-25
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - power
+  - software
 cover:
   image: cover.png
   alt: inverter-module
