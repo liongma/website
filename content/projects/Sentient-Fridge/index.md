@@ -3,8 +3,7 @@ title: Sentient Fridge
 date: 2024-07-23
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module

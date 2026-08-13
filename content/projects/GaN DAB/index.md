@@ -13,7 +13,6 @@ cover:
   relative: true
 featured: "2"
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
+GaN DAB Converter designed for on-board-charging application. 
 
-## OVERVIEW
-hello hello hello
+This converter makes use of high frequency planar magnetics to achieve high power density in high voltage vehicles.  

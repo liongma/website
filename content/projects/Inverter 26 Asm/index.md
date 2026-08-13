@@ -13,7 +13,5 @@ cover:
   relative: true
 featured: "1"
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
+High Efficiency PMSM Quad Inverter Assembly for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-Etc

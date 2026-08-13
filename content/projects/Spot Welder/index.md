@@ -3,8 +3,7 @@ title: Spot Welder
 date: 2023-10-03
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+- power
 cover:
   image: cover.png
   alt: inverter-module

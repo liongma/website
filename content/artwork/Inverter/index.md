@@ -2,7 +2,7 @@
 title: "Inverter"
 layout: "artwork-series"
 cover:
-    image: "cover.jpg"
+    image: "cover.png"
     alt: ""
     relative: true
 summary: ""

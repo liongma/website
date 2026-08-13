@@ -3,8 +3,8 @@ title: Scanning Quantum Tunneling Microscope
 date: 2024-07-13
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
+  - good
 cover:
   image: cover.png
   alt: inverter-module

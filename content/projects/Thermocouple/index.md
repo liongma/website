@@ -3,8 +3,7 @@ title: Thermocouple
 date: 2022-12-26
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module

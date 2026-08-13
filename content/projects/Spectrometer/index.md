@@ -3,8 +3,8 @@ title: Optical Spectrometer
 date: 2023-07-03
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
+  - good
 cover:
   image: cover.png
   alt: inverter-module

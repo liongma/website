@@ -3,8 +3,8 @@ title: Tesseract Mini
 date: 2022-01-01
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - rgb
+  - arduino
 cover:
   image: cover.jpg
   alt: inverter-module

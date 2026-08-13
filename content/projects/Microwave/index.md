@@ -3,8 +3,8 @@ title: Microwave Gun
 date: 2024-07-29
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
+
 cover:
   image: cover.png
   alt: inverter-module

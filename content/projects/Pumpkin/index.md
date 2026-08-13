@@ -3,8 +3,7 @@ title: Pumpkin Cat
 date: 2021-10-30
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - rgb
 cover:
   image: cover.png
   alt: inverter-module

@@ -3,8 +3,7 @@ title: Reflow Plate
 date: 2023-10-14
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module

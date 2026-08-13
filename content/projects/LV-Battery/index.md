@@ -3,8 +3,8 @@ title: LV Battery
 date: 2025-06-04
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - fsae
+  - power
 cover:
   image: cover.png
   alt: inverter-module

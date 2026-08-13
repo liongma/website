@@ -3,8 +3,8 @@ title: RGB Mask
 date: 2024-04-29
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
+  - rgb
 cover:
   image: cover.png
   alt: inverter-module

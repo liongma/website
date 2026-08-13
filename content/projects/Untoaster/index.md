@@ -3,8 +3,8 @@ title: Un-Toaster
 date: 2021-11-28
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
+  - rgb
 cover:
   image: cover.png
   alt: inverter-module

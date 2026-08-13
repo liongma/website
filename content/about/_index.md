@@ -6,7 +6,7 @@ title: 'About'
 
 I am Liong! I like drawing cats, making art, and creating things. I've been having a lot of fun learning about electric machines, high voltage, and generally very glowy things. I made this website in case anyone wants to take a look at the stuff i've done. I'm also just posting anything cool i find here. 
 
-![Selfie](image.jpg)
+![-](image.jpg)
 
 
 

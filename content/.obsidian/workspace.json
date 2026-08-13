@@ -11,10 +11,14 @@
             "id": "c2adb614acb4e403",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "projects/Car/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -183,19 +187,20 @@
   },
   "active": "c2adb614acb4e403",
   "lastOpenFiles": [
+    "artwork/Inverter/cover.png",
+    "artwork/Inverter/module1 copy.png",
+    "projects/Car/sim.png",
+    "projects/Car/done.png",
+    "projects/Car/sketch.png",
+    "projects/Car/drawing.png",
+    "projects/Car/Sim.png",
+    "projects/Car/Sketch.png",
+    "projects/Car/chassis.png",
+    "projects/Car/timeline.png",
+    "projects/Car/Screenshot 2026-07-31 221511.png",
     "posts/Website!/index.md",
     "posts/_index.md",
     "about/_index.md",
-    "about/image.jpg",
-    "artwork/Tesseract/Cube_2022_11_26.JPG",
-    "artwork/Tesseract/IMG_20220101_150858.jpg",
-    "artwork/Plasma/cover copy.png",
-    "artwork/Tesseract/cover copy.jpg",
-    "artwork/Plasma/sfjksda.png",
-    "artwork/Plasma/plasma copy.png",
-    "artwork/Plasma/plasma.png",
-    "artwork/Tesseract/cover.jpg",
-    "artwork/Tesseract/IMG_20211231_043855.jpg",
     "artwork/Tesseract/index.md",
     "artwork/Tesseract/Liong_coil4_2020_12_28.HEIC",
     "artwork/Tesseract",
@@ -227,7 +232,6 @@
     "projects/Theremin/index.md",
     "projects/Swamp Cooler copy/index.md",
     "projects/Swamp Cooler/index.md",
-    "projects/AA Board copy/index.md",
-    "projects/AE-Battery copy/index.md"
+    "projects/AA Board copy/index.md"
   ]
 }

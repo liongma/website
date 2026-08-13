@@ -3,8 +3,7 @@ title: Remote Relay
 date: 2021-12-28
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: inverter-module

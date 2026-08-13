@@ -3,8 +3,7 @@ title: UWU Light
 date: 2021-11-23
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - rgb
 cover:
   image: cover.png
   alt: inverter-module

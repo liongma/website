@@ -3,8 +3,8 @@ title: RGB Violin
 date: 2019-12-09
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
+  - rgb
 cover:
   image: cover.png
   alt: RGB Violin

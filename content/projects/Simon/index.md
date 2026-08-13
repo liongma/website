@@ -3,8 +3,8 @@ title: Simon Game
 date: 2020-10-06
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
+  - rgb
 cover:
   image: cover.png
   alt: inverter-module

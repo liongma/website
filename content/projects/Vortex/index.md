@@ -3,8 +3,7 @@ title: Plasma Vortex
 date: 2021-02-21
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: sparkgap

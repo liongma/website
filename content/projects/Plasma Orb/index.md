@@ -3,8 +3,7 @@ title: Plasma Orb
 date: 2024-06-16
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: inverter-module

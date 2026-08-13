@@ -3,8 +3,7 @@ title: Spark Gap Big
 date: 2021-02-05
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: sparkgap

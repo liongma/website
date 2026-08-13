@@ -15,5 +15,4 @@ featured: "1"
 ---
 High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-Etc
+

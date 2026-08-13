@@ -3,8 +3,7 @@ title: Plasma Ring
 date: 2024-05-30
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - physics
 cover:
   image: cover.png
   alt: inverter-module

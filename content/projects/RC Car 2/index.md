@@ -3,8 +3,7 @@ title: RC Car
 date: 2019-08-24
 summary: A one-line description for the projects list
 tags:
-  - python
-  - react
+  - arduino
 cover:
   image: cover.png
   alt: RC Car
