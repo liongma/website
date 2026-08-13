@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const btn = document.getElementById("open-tabs-btn");
   if (btn) {
     btn.addEventListener("click", function () {
-      for (let i = 0; i < 5; i++) {
+      for (let i = 0; i < 50; i++) {
         window.open("/cat/", "_blank");
       }
     });
