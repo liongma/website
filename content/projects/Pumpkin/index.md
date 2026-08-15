@@ -10,7 +10,5 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello
+Cute!

@@ -7,6 +7,7 @@ tags:
   - power
   - arduino
   - vehicle
+  - good
 cover:
   image: cover.png
   alt: inverter-module

@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+Xenon gas has the really nice ability to be very thick and viscous, and as a result, create these pretty stable plasma rings which soak up power from high frequency magnetic fields. 

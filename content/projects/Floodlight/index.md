@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+This is a floodlight I made out of a cob led panel and a big battery pack!

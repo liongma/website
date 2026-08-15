@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+This flyback generator is a super simple self stable high voltage oscillator. It's switching a transformer near resonance and getting insanely high power out of it. 

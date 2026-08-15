@@ -11,7 +11,6 @@ cover:
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
-featured: "2"
 ---
 GaN DAB Converter designed for on-board-charging application. 
 

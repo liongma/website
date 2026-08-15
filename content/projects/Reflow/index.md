@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+This is a reflow plate i made out of a clothes iron. Typical reflow plates can be pretty expensive but i made this one for around 10 dollars. 

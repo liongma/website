@@ -11,7 +11,6 @@ cover:
   alt: inverter-module
   caption: 50kW Inverter Module
   relative: true
-featured: "1"
 ---
 High Efficiency PMSM Quad Inverter Assembly for EV Application | https://github.com/liongma/Inverter 
 

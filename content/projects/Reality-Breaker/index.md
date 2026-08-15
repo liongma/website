@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+This uses radioactive decay to trigger a geiger muller tube, which converts the timing of this to a a random number. This is a truly random number since radioactive decay is inherently nondeterministic which means it breaks the laws of classical physics.

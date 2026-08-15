@@ -10,7 +10,4 @@ cover:
   caption: 50kW Inverter Module
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
-
-## OVERVIEW
-hello hello hello
+Wood burning is very dangerous, but also prettyy fun! I made it out of one of my plasma generators. It made these really cool patterns!

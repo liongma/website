@@ -10,7 +10,5 @@ cover:
   caption: bleh
   relative: true
 ---
-High Efficiency PMSM Inverter for EV Application | https://github.com/liongma/Inverter 
 
-## OVERVIEW
-hello hello hello
+I really like mushrooms! I saw somewhere that you can make your own mushrooms out of silicone, and i decided to give it a try! Needless to say, i think it works pretty well. 
