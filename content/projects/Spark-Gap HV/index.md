@@ -1,7 +1,6 @@
 ---
 title: Spark Gap Big
 date: 2021-02-05
-summary: A one-line description for the projects list
 tags:
   - physics
 cover:

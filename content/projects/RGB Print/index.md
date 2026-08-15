@@ -1,7 +1,6 @@
 ---
 title: RGB Print
 date: 2019-12-23
-summary: A one-line description for the projects list
 tags:
   - rgb
   - arduino

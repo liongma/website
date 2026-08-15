@@ -1,7 +1,6 @@
 ---
 title: RGB Clock
 date: 2022-01-01
-summary: A one-line description for the projects list
 tags:
   - arduino
   - rgb

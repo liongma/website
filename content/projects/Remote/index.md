@@ -1,7 +1,6 @@
 ---
 title: Remote
 date: 2020-09-09
-summary: A one-line description for the projects list
 tags:
   - arduino
 cover:

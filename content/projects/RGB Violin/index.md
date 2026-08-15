@@ -1,7 +1,6 @@
 ---
 title: RGB Violin
 date: 2019-12-09
-summary: A one-line description for the projects list
 tags:
   - arduino
   - rgb

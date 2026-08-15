@@ -20,7 +20,9 @@ theme = "PaperMod"
 [params]
   mainSections = ["projects"]
   comments = true
-  
+  ShowPostNavLinks = true
+  summary= "n/a"
+
 [menu]
   [[menu.main]]
     name = "Projects"

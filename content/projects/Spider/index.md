@@ -1,7 +1,6 @@
 ---
 title: Quadraped
 date: 2020-01-13
-summary: A one-line description for the projects list
 tags:
   - arduino
 cover:

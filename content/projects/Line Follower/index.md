@@ -1,7 +1,6 @@
 ---
 title: Line Follower
 date: 2019-09-08
-summary: A one-line description for the projects list
 tags:
   - arduino
 cover:

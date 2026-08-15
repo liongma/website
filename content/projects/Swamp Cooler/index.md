@@ -1,13 +1,11 @@
 ---
 title: Swamp Cooler
 date: 2019-05-31
-summary: A one-line description for the projects list
 tags:
   - bad
 cover:
   image: cover.png
   alt: inverter-module
-  caption: 50kW Inverter Module
   relative: true
 ---
 

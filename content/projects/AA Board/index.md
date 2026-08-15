@@ -1,7 +1,6 @@
 ---
 title: Active Aero Driver
 date: 2025-05-31
-summary: dud
 tags:
   - pcb
   - fsae

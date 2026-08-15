@@ -1,14 +1,13 @@
 ---
 title: LED Screen
 date: 2024-04-21
-summary: A one-line description for the projects list
 tags:
   - ae
   - rgb
 cover:
   image: cover.png
   alt: inverter-module
-  caption: 50kW Inverter Module
+  caption: LED Screen
   relative: true
 ---
 

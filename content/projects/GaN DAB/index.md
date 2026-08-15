@@ -1,7 +1,6 @@
 ---
 title: GaN DAB Converter
 date: 2025-08-21
-summary: A one-line description for the projects list
 tags:
   - good
   - power
@@ -9,7 +8,7 @@ tags:
 cover:
   image: cover.png
   alt: inverter-module
-  caption: 50kW Inverter Module
+  caption: DAB
   relative: true
 ---
 GaN DAB Converter designed for on-board-charging application. 

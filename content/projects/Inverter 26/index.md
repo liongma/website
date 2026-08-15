@@ -1,7 +1,6 @@
 ---
 title: SiC Inverter
 date: 2026-07-26
-summary: A one-line description for the projects list
 tags:
   - power
   - good
@@ -9,7 +8,7 @@ tags:
 cover:
   image: cover.jpg
   alt: inverter-module
-  caption: 50kW Inverter Module
+  caption: SiC Inverter
   relative: true
 featured: "1"
 ---

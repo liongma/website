@@ -1,7 +1,6 @@
 ---
 title: Mushroom Lights
 date: 2021-09-05
-summary: A one-line description for the projects list
 tags:
   - rgb
 cover:

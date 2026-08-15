@@ -1,7 +1,6 @@
 ---
 title: Electric Boat Inverter
 date: 2022-04-24
-summary: A one-line description for the projects list
 tags:
   - ae
   - power
@@ -11,7 +10,7 @@ tags:
 cover:
   image: cover.png
   alt: inverter-module
-  caption: 50kW Inverter Module
+  caption: Boat Inverter
   relative: true
 ---
 

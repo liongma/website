@@ -1,7 +1,6 @@
 ---
 title: Kirlian Photography
 date: 2020-12-21
-summary: A one-line description for the projects list
 tags:
   - physics
 cover:

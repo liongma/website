@@ -1,14 +1,13 @@
 ---
 title: Custom Nano
 date: 2023-05-02
-summary: A one-line description for the projects list
 tags:
   - pcb
   - arduino
 cover:
   image: cover.png
   alt: inverter-module
-  caption: 50kW Inverter Module
+  caption: Custom Nano
   relative: true
 ---
 
